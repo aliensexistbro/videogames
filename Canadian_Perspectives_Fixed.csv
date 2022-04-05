@@ -1,8 +1,8 @@
-﻿"Own health
-",Household/Family health,Vulnerable people’s health,Canadian population’s health,World population’s health,Overloading health system,Civil disorder,Maintaining social ties,Cooperation and support during crisis,"Cooperation and support after crisis
+﻿"Own
+",Household,Vulnerable,CanadaPopHealth,WorldPopHealth,Overload,CivilDisorder,MaintainingSocials,CooperationDuring,"CooperationAfter
 ","
-Family stress from confinement","
-Violence in the home",Gender,Job loss,Meeting financial obligations,PPROV,VERDATE
+FamilyStress","
+ViolenceHome",Gender,JobLos,Finance,Province,VERDATE
 Very,Somewhat,Very,Very,Very,Extremely,Somewhat,Very,Somewhat,Somewhat,Very,Not at all,Female,Disagree,No impact,Quebec,MAR
 Very,Very,Extremely,Very,Very,Very,Very,Very,Extremely,Extremely,Not at all,Not at all,Male,Disagree,Minor impact,Quebec,MAR
 Extremely,Extremely,Extremely,Very,Very,Very,Very,Very,Very,Very,Very,Very,Male,Strongly agree,Major impact,Ontario,MAR
