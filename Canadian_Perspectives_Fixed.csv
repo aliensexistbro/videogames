@@ -1,6 +1,4 @@
-﻿Own,Household,Vulnerable,CanadaPopHealth,WorldPopHealth,Overload,CivilDisorder,MaintainingSocials,CooperationDuring,CooperationAfter,"
-FamilyStress","
-ViolenceHome",Gender,JobLos,Finance,Province,VERDATE
+﻿Own,Household,Vulnerable,CanadaPopHealth,WorldPopHealth,Overload,CivilDisorder,MaintainingSocials,CooperationDuring,CooperationAfter,FamilyStress,ViolenceHome,Gender,JobLos,Finance,Province,VERDATE
 Very,Somewhat,Very,Very,Very,Extremely,Somewhat,Very,Somewhat,Somewhat,Very,Not at all,Female,Disagree,No impact,Quebec,MAR
 Very,Very,Extremely,Very,Very,Very,Very,Very,Extremely,Extremely,Not at all,Not at all,Male,Disagree,Minor impact,Quebec,MAR
 Extremely,Extremely,Extremely,Very,Very,Very,Very,Very,Very,Very,Very,Very,Male,Strongly agree,Major impact,Ontario,MAR
